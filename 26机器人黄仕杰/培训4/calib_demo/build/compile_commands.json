@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/hsj/gugugaga/26机器人黄仕杰/培训4/calib_demo/build",
-  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++11 -o CMakeFiles/calib_demo.dir/main.cpp.o -c /home/hsj/gugugaga/26机器人黄仕杰/培训4/calib_demo/main.cpp",
-  "file": "/home/hsj/gugugaga/26机器人黄仕杰/培训4/calib_demo/main.cpp"
-}
-]

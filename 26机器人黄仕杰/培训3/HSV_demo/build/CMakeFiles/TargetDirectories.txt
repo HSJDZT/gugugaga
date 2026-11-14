@@ -1,0 +1,3 @@
+/home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/build/CMakeFiles/main.dir
+/home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/build/CMakeFiles/edit_cache.dir
+/home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/build/CMakeFiles/rebuild_cache.dir

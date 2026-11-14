@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/main.dir/main.cpp.o -c /home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/main.cpp",
+  "file": "/home/hsj/gugugaga/26机器人黄仕杰/培训3/HSV_demo/main.cpp"
+}
+]
